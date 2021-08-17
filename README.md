@@ -9,7 +9,7 @@
 
 - 📫 Como entrar em contato comigo: **zulianc09@gmail.com**
 
-- ⚡ Um fato sobre mim: Gosto de hardware, fiz cursos sobre e montei meu proprio computador
+- ⚡ Um fato sobre mim: Gosto de hardware, fiz cursos sobre e montei meu próprio computador
 
 <!--
 **CaduZulian/caduzulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
