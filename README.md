@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Carlos Eduardo Zulian</h1>
+<h3 align="center">16 anos - Estudante de Desenvolvimento de sistemas</h3>
+
+- 🌱 Atualmente estou estudando React e Javascript
+
+- 📖 Já tive contato com Next, Firebase, MongoDB, MySQL, Bootstrap, SCSS, HandleBars, TypeScript...
+
+- 📖 Estudei programação no Discover e participei das NLW #05 e NLW #06 da [Rocketseat](https://github.com/Rocketseat)
+
+- 📫 Como entrar em contato comigo: **zulianc09@gmail.com**
+
+- ⚡ Um fato sobre mim: Gosto de hardware, fiz cursos sobre e montei meu proprio computador
 
 <!--
 **CaduZulian/caduzulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
