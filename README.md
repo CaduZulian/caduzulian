@@ -1,15 +1,17 @@
 <h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Carlos Eduardo Zulian</h1>
 <h3 align="center">17 anos - Estudante de Desenvolvimento de sistemas</h3>
 
-- 🌱 Atualmente estou estudando React e Javascript
+- 🌱 Atualmente estou me aprofundando em React e Javascript, e estudando sobre backend
 
-- 📖 Já tive contato com Next, Firebase, MongoDB, MySQL, Bootstrap, SCSS, HandleBars, TypeScript...
+- 💻 Estágiario na **KOR Solutions** desde Outubro de 2020, como front-end delevoper
 
-- 📖 Estudei programação no Discover e participei das NLW #05 e NLW #06 da [Rocketseat](https://github.com/Rocketseat)
+- 📖 Já tive contato com Next, Firebase, MongoDB, MySQL, Express, Bootstrap, SCSS, HandleBars, TypeScript...
+
+- 📖 Estudo programação desde 2020, fiz o Discover e participei das NLW #05 e NLW #06 da [Rocketseat](https://github.com/Rocketseat)
 
 - 📫 Como entrar em contato comigo: **zulianc09@gmail.com**
 
-- ⚡ Um fato sobre mim: Gosto de hardware, fiz cursos sobre e montei meu próprio computador
+- ⚡ Um fato sobre mim: Meu primeiro computador foi um Celeron 450, 1gb ddr2 e windows XP, usei até 2018 (mas ainda tenho e funciona!) e graças a ele gosto de hardware, fiz cursos sobre e atualmente montei meu próprio computador
 
 <!--
 <p align="center">
