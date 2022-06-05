@@ -1,4 +1,4 @@
-<h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Carlos Eduardo Zulian</h1>
+<h1 align="center">Olá 👋, meu nome é Carlos Eduardo Zulian!</h1>
 <h3 align="center">17 anos - Estudante de Desenvolvimento de sistemas</h3>
 
 - 🌱 Atualmente estou me aprofundando em React e Javascript, e estudando sobre backend
