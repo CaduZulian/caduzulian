@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou me aprofundando em React e Javascript, e estudando sobre backend
 
-- 💻 Estágiario na **KOR Solutions** desde Outubro de 2021, como front-end delevoper
+- 💻 Estágiario na **KOR Solutions** de Outubro de 2021 a Dezembro de 2022, como front-end delevoper e Junior front-end delevoper desde Janeiro de 2023
 
 - 📖 Já tive contato com Next, Firebase, MongoDB, MySQL, Express, Bootstrap, SCSS, HandleBars, TypeScript...
 
