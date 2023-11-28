@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Carlos Eduardo Zulian!</h1>
-<h3 align="center">19 anos - Estudante de Desenvolvimento de sistemas</h3>
+<h3 align="center">Estudante de Ciência da Computação</h3>
 
 - 🌱 Atualmente estou me aprofundando em React e Javascript, e estudando sobre backend
 
