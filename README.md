@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou me aprofundando em front-end(Vue e Angular), mobile(react-native) e design
 
-- 💻 Front-end Delevoper Junior na **KOR Solutions** desde janeiro de 2023, sendo estágiario de outubro de 2021 a dezembro de 2022
+- 💻 Trabalho no mercado de TI desde 2021, atuando atualmente como Front-end Delevoper na **AIKO**.
 
 - 📖 Estudo programação desde 2020, fiz o Discover e várias NLW’s da [Rocketseat](https://github.com/Rocketseat) e atualmente estou cursando Bacharel em Ciência da Computação
 
